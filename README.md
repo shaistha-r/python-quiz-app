@@ -11,7 +11,7 @@ GUI-based quiz application using tkinter.
 - Python
 
 ## Screenshots
-![Quiz App Interface](https://github.com/user-attachments/assets/3f57476e-cef3-4702-8ee0-92b311fd70a4)
+<img width="1919" height="1029" alt="Screenshot 2026-03-19 193134" src="https://github.com/user-attachments/assets/a7bba4e8-55a0-4f20-93c8-8ce74bd4e04a" />
 
 ## How to Run
 1. Install Python
