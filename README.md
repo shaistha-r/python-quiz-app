@@ -1,17 +1,19 @@
 # Python Quiz App
 
-GUI-based quiz application using tkinter.
+GUI-based quiz application using tkinter with live score tracking and restart functionality.
 
 ## Features
 - Multiple choice questions
-- Score calculation
+- Live score display
+- Restart quiz option
 - User-friendly interface
 
 ## Technologies
 - Python
+- Tkinter
 
 ## Screenshots
-<img width="1919" height="1029" alt="Screenshot 2026-03-19 193134" src="https://github.com/user-attachments/assets/a7bba4e8-55a0-4f20-93c8-8ce74bd4e04a" />
+![Quiz App Interface](quiz_app.png)
 
 ## How to Run
 1. Install Python
